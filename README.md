@@ -1,5 +1,4 @@
-# Challenge-BlueSmile
-Repositorio para código de evaluación bluesmile tech
+# Challenge
 
 <li>La solucion principal se encuentra en el notebook: challenge-bluesmile.ipynb
 <li>Los otros dos archivos son para generar el pipeline de datos.
